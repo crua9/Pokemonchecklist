@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Pokemon checklist</string>
+
+    <!--
+    for those who want to help, add the follwoing in the right place
+    <string name=""></string>
+     Add the name between the "" and ><. For example
+     <string name="abra">Abra</string>
+
+     Same goes with the about. What is between the "" will be called, and what is between
+     the >< will be shown. You can't use spaces in the "". If you want to, just use a _
+     -->
+
+    <!-- Pok name -->
+    <!-- Pok about -->
+    <!-- item name -->
+    <!-- about name -->
+
 </resources>
