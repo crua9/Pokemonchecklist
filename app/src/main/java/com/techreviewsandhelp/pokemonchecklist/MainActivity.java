@@ -44,6 +44,7 @@ public class MainActivity extends Activity {
             public void onClick(View v) {
                 // TODO Auto-generated method stub
                 startActivity(new Intent(c, Checklist.class));
+                finish();
             }
         });
         //Chart button
@@ -53,6 +54,7 @@ public class MainActivity extends Activity {
             public void onClick(View v) {
                 // TODO Auto-generated method stub
                 startActivity(new Intent(c, Chart.class));
+                finish();
             }
         });
         //Search Button
@@ -62,6 +64,7 @@ public class MainActivity extends Activity {
             public void onClick(View v) {
                 // TODO Auto-generated method stub
                 startActivity(new Intent(c, Search.class));
+                finish();
             }
         });
 
