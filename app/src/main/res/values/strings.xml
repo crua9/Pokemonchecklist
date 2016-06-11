@@ -5,10 +5,24 @@
     for those who want to help, add the follwoing in the right place
     <string name=""></string>
      Add the name between the "" and ><. For example
-     <string name="abra">Abra</string>
+     <string name="p1">Abra</string>
 
      Same goes with the about. What is between the "" will be called, and what is between
      the >< will be shown. You can't use spaces in the "". If you want to, just use a _
+
+     for the name="" please put in the following
+     pok name = pn (then put in the number of the pokemon)
+     pok about = pa (then the number of the pokemon)
+     item name =in (then the number of the item)
+     item about = ia (then the number of the item)
+
+     You can get the number of the pokemon from
+     http://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_name
+
+     for the items you can get the number from
+     http://bulbapedia.bulbagarden.net/wiki/List_of_items_by_index_number_(Generation_VI)
+     or the latest gen from
+     http://bulbapedia.bulbagarden.net/wiki/List_of_items_by_index_number
      -->
 
     <!-- Pok name -->
