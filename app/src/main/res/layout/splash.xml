@@ -3,4 +3,10 @@
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+    <!--
+
+        I need to put something here saying people can help make this app better.
+
+    -->
+
 </LinearLayout>
