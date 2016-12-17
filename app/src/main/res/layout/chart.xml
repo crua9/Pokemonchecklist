@@ -10,4 +10,11 @@
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="Will work on later"
         android:id="@+id/textView3" />
+
+    <!--
+        It has been a while since I worked on this, but I think I wanted to make a map of each game,
+        and show people where things tend to spawn.
+
+        This may not happen due to the maps being copyrighted, and the owners being how they are.
+    -->
 </LinearLayout>
