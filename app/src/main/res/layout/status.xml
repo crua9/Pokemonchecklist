@@ -3,6 +3,16 @@
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+    <!--
+
+        It has been a while since I worked on this, but I think this is where you can add each
+        pokemon, and even tell the system it evolved. So if you have special ones close to you, you
+        can keep track of when you got it, the lvl, and so on.
+
+        This is low on my list to actually add to this app, but I think it's a good idea.
+
+    -->
+
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
